@@ -66,3 +66,8 @@ predict-loan-approval/
   - `Flask`
   - `streamlit`
   - `requests`
+ 
+## App
+
+<img width="774" height="729" alt="image" src="https://github.com/user-attachments/assets/373ce484-0275-45fe-9bc7-8c40ddd6beea" />
+
